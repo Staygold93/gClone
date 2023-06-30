@@ -1,2 +1,2 @@
 
-## GClone A google search engine clone 
+## GClone, A google search engine clone 
